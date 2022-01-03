@@ -1,0 +1,11 @@
+{
+  "url": "https://raw.githubusercontent.com/masenf/lcara-acs/main/2022_cowlitz_ham.ics",
+  "title": "Cowlitz Ham Radio Activities",
+  "target": "_blank",
+  "tabs": [
+    "month",
+    "week",
+    "day",
+    "agenda"
+  ]
+}
